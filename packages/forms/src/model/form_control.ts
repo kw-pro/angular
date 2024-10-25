@@ -12,11 +12,11 @@ import {AsyncValidatorFn, ValidatorFn} from '../directives/validators';
 import {removeListItem} from '../util';
 
 import {
-    AbstractControl,
-    AbstractControlOptions,
-    isOptionsObj,
-    pickAsyncValidators,
-    pickValidators,
+  AbstractControl,
+  AbstractControlOptions,
+  isOptionsObj,
+  pickAsyncValidators,
+  pickValidators,
 } from './abstract_model';
 
 /**
